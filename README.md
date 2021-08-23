@@ -2,7 +2,7 @@ This is a simple package to `re-billionize` any figure.💰
 
 Stick your current balance in.💔
 ```
-// I only have $300 to my name :(
+// I only have $1 to my name :(
 // But I want to be like Russ so bad. 
 ```
 
