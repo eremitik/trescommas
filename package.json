@@ -6,10 +6,19 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "keywords": [
+    "trescommas",
+    "billionaire",
+    "fun"
+  ],
+  "author": "eremitik",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.3.4",
     "mocha": "^9.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eremitik/trescommas.git"
   }
 }
