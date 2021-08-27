@@ -1,6 +1,6 @@
 {
   "name": "trescommas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "re-billionize any figure",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eremitik/trescommas.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/eremitik/trescommas/issues"
+  },
+  "homepage": "https://github.com/eremitik/trescommas#readme"
 }
