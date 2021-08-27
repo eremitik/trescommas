@@ -12,7 +12,7 @@ import Trescommas from 'trescommas';
 const iwannabeabillionaire = Trescommas(1);
 ```
 
-Who's scared of inflation now?🤑
+Who's scared of inflation now?💪🤑
 ```
 $1,000,000,000
 ```
