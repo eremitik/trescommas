@@ -9,7 +9,3 @@ function trescommas(int) {
 }
 
 module.exports = { trescommas };
-
-
-console.log(trescommas("9"))
-console.log(typeof "9")
